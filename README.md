@@ -12,4 +12,4 @@ There is also the idea of refactoring the posts into different kinds of posts, s
 We should be able to have voice AI agents to perform various business tasks such as scheduling meetings
 
 ## **AI Influencers:**
-We should be able to generate AI influencers from places such as 
+We should be able to generate AI influencers from places such as Replicate
